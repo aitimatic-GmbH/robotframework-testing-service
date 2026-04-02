@@ -1,0 +1,17 @@
+.devcontainer/
+.vscode/
+.local.*
+*.local.md
+
+# Robot Framework Ergebnisse (lokal, nicht ins Repo)
+results/
+reports/
+output.xml
+log.html
+report.html
+*.xml
+
+# Python
+__pycache__/
+*.pyc
+.env
