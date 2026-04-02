@@ -1,0 +1,11 @@
+# Robot Framework Kern
+robotframework==7.4.2
+
+# API Testing
+robotframework-requests==0.9.7
+
+# UI / Browser Testing (Playwright-basiert)
+robotframework-browser==19.13.0
+
+# Parallele Testausführung (optional, für größere Suiten)
+robotframework-pabot==5.2.2
